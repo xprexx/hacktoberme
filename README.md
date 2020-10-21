@@ -1,2 +1,2 @@
 # hacktoberme
-for hacktoberfest only
+okay done
